@@ -5419,7 +5419,14 @@
       "links": {},
       "address": "0x07F643853ED3cb5d7172AFCCb866Ba4c9243a87E",
       "transactionHash": "0x381f0409e6389bd4385c0e857fbc986ee23361c0773e3776755a79b913879c83"
+    },
+    "42": {
+      "events": {},
+      "links": {},
+      "address": "0x3486F20765b2fba2Cd4BcE9ec2Edd687596eb820",
+      "transactionHash": "0x9281e6e9f316e11148401f4eeb12db7c40b22fde1d0502da25be95cc2caa05b5"
     }
+
   },
   "schemaVersion": "3.0.2",
   "updatedAt": "2020-03-29T02:50:38.433Z",

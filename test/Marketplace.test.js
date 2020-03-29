@@ -1,4 +1,3 @@
-import { FormControlStatic } from "react-bootstrap"
 
 const Marketplace = artifacts.require('./Marketplace.sol');
 const assert = require('chai').assert;
